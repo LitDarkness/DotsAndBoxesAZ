@@ -1,4 +1,4 @@
-# AlphaDots: AlphaZero for Dots and Boxes 🧠
+# DotsAndBoxesAZ: AlphaZero for Dots and Boxes
 
 这是一个基于 **AlphaZero** 算法（MCTS + 深度神经网络）实现的 **Dots and Boxes (点格棋)** 强化学习 AI。
 
@@ -16,7 +16,7 @@
 
 1. 克隆仓库:
    ```bash
-   git clone 
+   git clone https://github.com/LitDarkness/DotsAndBoxesAZ
    cd AlphaDots
    ```
 
