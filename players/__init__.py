@@ -1,0 +1,1 @@
+from .heuristic_player import HeuristicPlayer
